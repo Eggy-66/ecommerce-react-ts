@@ -35,3 +35,4 @@ Setup the Project:
  Install the dependencies using npm install.
  Start the development server using npm run dev.
 
+<img width="605" alt="Screenshot 2025-02-25 at 14 39 22" src="https://github.com/user-attachments/assets/b73c9aa9-df1c-46bd-b51b-8ebbe75d7261" />
